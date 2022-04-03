@@ -1,0 +1,2 @@
+# WPFuzz
+WPFuzzing Wordlist
